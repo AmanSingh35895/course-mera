@@ -15,5 +15,10 @@
     "url": "https://github.com/AmanSingh35895/course-mera/issues"
   },
   "homepage": "https://github.com/AmanSingh35895/course-mera#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.2"
+  }
 }
